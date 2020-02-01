@@ -1,6 +1,9 @@
 # Characterizing Functional Upper Extremity Movement in Haptic Virtual Environments
 Code for our paper "Characterizing Functional Upper Extremity Movement in Haptic Virtual Environments" currently under review at IEEE EMBC 2020.
 
+## Code Information
+`test_trajectory.mat` contains an example trajectory used to test the python and MATLAB implementations. `measures_and_segmentation.ipynb` is the python implementation, while `measures_and_segmentation.m` is the MATLAB implementation. If you have any questions or comments, feel free to open an issue.
+
 ## NOTICE
 The author’s affiliation with The MITRE Corporation is provided for identification purposes only, and is not intended
 to convey or imply MITRE’s concurrence with, or support for, the
