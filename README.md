@@ -1,5 +1,5 @@
 # Characterizing Functional Upper Extremity Movement in Haptic Virtual Environments
-Code for our paper "Characterizing Functional Upper Extremity Movement in Haptic Virtual Environments" that has been accepted at IEEE EMBC 2020. Publication forthcoming.
+Code for our paper "Characterizing Functional Upper Extremity Movement in Haptic Virtual Environments" presented at IEEE EMBC 2020. Link to paper on IEEE Xplore [here](https://ieeexplore.ieee.org/abstract/document/9176492).
 
 Paper Authors: Kyle Jackson, Zoran Duric, Susannah Engdahl, and Lynn Gerber.
 
