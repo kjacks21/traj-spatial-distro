@@ -122,7 +122,7 @@ function [d_values, d_threshold, seg_index] = segmentation(x, y, z, alpha, med_f
        val1 = cross(p2-p1, p3-p1);
        val1 = val1(3);
        val2 = norm(p2-p1);
-       orthog(i) = abs(val1/val2);
+       orthog(i) = abs(val1)/val2;
     end
     
     [~, segmentation_index] = max(orthog(d_thresh_indx:end));
